@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53288C24-08AF-4856-9508-8507FB7C890C}|TodoApp\\TodoApp.csproj|c:\\users\\hp\\source\\repos\\todoapp\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53288C24-08AF-4856-9508-8507FB7C890C}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53288C24-08AF-4856-9508-8507FB7C890C}|TodoApp\\TodoApp.csproj|c:\\users\\hp\\source\\repos\\todoapp\\todoapp\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53288C24-08AF-4856-9508-8507FB7C890C}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53288C24-08AF-4856-9508-8507FB7C890C}|TodoApp\\TodoApp.csproj|c:\\users\\hp\\source\\repos\\todoapp\\todoapp\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53288C24-08AF-4856-9508-8507FB7C890C}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53288C24-08AF-4856-9508-8507FB7C890C}|TodoApp\\TodoApp.csproj|c:\\users\\hp\\source\\repos\\todoapp\\todoapp\\views\\todo\\look.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53288C24-08AF-4856-9508-8507FB7C890C}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todo\\look.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53288C24-08AF-4856-9508-8507FB7C890C}|TodoApp\\TodoApp.csproj|c:\\users\\hp\\source\\repos\\todoapp\\todoapp\\views\\todo\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53288C24-08AF-4856-9508-8507FB7C890C}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todo\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53288C24-08AF-4856-9508-8507FB7C890C}|TodoApp\\TodoApp.csproj|c:\\users\\hp\\source\\repos\\todoapp\\todoapp\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53288C24-08AF-4856-9508-8507FB7C890C}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53288C24-08AF-4856-9508-8507FB7C890C}|TodoApp\\TodoApp.csproj|c:\\users\\hp\\source\\repos\\todoapp\\todoapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53288C24-08AF-4856-9508-8507FB7C890C}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53288C24-08AF-4856-9508-8507FB7C890C}|TodoApp\\TodoApp.csproj|c:\\users\\hp\\source\\repos\\todoapp\\todoapp\\contexts\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53288C24-08AF-4856-9508-8507FB7C890C}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\contexts\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53288C24-08AF-4856-9508-8507FB7C890C}|TodoApp\\TodoApp.csproj|c:\\users\\hp\\source\\repos\\todoapp\\todoapp\\controllers\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53288C24-08AF-4856-9508-8507FB7C890C}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TodoApp\\TodoApp\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\TodoApp\\TodoApp\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T09:38:49.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeToolTip": "TodoApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:35:37.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TodoApp\\TodoApp\\Views\\Todo\\Create.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\TodoApp\\TodoApp\\Views\\Todo\\Create.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todo\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T09:48:13.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Look.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TodoApp\\TodoApp\\Views\\Todo\\Look.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todo\\Look.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\TodoApp\\TodoApp\\Views\\Todo\\Look.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todo\\Look.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T19:46:09.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TodoApp\\TodoApp\\Views\\Todo\\Update.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todo\\Update.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\TodoApp\\TodoApp\\Views\\Todo\\Update.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todo\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T17:56:04.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TodoApp\\TodoApp\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\TodoApp\\TodoApp\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoApp\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAEwDAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:32:54.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TodoApp\\TodoApp\\Controllers\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Controllers\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\TodoApp\\TodoApp\\Controllers\\Models\\Todo.cs",
+              "RelativeToolTip": "TodoApp\\Controllers\\Models\\Todo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAMwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:05:28.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TodoApp\\TodoApp\\Contexts\\TodoContext.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Contexts\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\TodoApp\\TodoApp\\Contexts\\TodoContext.cs",
+              "RelativeToolTip": "TodoApp\\Contexts\\TodoContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:26:12.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TodoApp\\TodoApp\\Views\\Todo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todo\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\TodoApp\\TodoApp\\Views\\Todo\\Delete.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todo\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T19:45:18.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
